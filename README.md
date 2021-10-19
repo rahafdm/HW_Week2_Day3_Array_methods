@@ -66,7 +66,6 @@ const instructors = ["Alex", "Daniel", "Morgan", "Ben", "Micah", "Jims"];
 ```js
 ["Alex is awesome", "Daniel is awesome", "Morgan is awesome", "Ben is awesome", "Micah is awesome", "Jims is awesome"]
 ```
----
 
 
 ## Reference
