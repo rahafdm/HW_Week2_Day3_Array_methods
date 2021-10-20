@@ -28,7 +28,7 @@ console.log(squaredNumber);
 
 const instructors = ["Alex", "Daniel", "Morgan", "Ben", "Micah", "Jims"];
 
-const instructors1 = instructors.map(instructor => instructors);
+const instructors1 = instructors.map(instructor => instructor);
 console.log(instructors1);
 
 //----------------------------//
